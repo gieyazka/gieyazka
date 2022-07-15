@@ -9,6 +9,6 @@
 <div style='display : flex;justify-content : space-between;'> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gieyazka&show_icons=true&locale=en" alt="gieyazka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gieyazka&show_icons=true&locale=en&layout=compact" alt="gieyazka" /></p>
-
+<a href="https://app.daily.dev/gieyazka"><img src="https://api.daily.dev/devcards/ea465e0abdcf40aab148ba9724e42277.png?r=d2h" width="400" alt="Pokkate's Dev Card"/></a>
 </div>
 
